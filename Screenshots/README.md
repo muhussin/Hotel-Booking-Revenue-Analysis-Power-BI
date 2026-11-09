@@ -7,4 +7,3 @@ Screenshot of two Analysis
 
 2, Analysis - Customer Analysis
 <img width="1317" height="740" alt="Screenshot 2026-11-08 132709" src="https://github.com/user-attachments/assets/889aff75-fb63-419c-9987-0795653124cc" />
-                                                    ###                          XXX------XXX-----XXX
